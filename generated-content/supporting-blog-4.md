@@ -134,4 +134,6 @@ Understanding this process helps customers communicate their requirements clearl
 
 For more information, read our complete guide to **custom gold and silver jewellery designing in Shivamogga**.
 
-**Internal Link:** `pillar-blog.md`
+
+
+**Related Guide:** [Read our complete guide to custom gold and silver jewellery designing in Shivamogga](pillar-blog.md)
