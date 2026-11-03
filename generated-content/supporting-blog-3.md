@@ -108,3 +108,6 @@ Read our main guide:
 Custom Gold and Silver Jewellery Designing in Shivamogga – A Complete Guide.
 
 File: pillar-blog.md
+
+
+**Related Guide:** [Read our complete guide to custom gold and silver jewellery designing in Shivamogga](pillar-blog.md)
